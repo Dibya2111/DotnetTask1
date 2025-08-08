@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dibya\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
+    "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dibya\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dibya\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\dibya\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\dibya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dibya\\Desktop\\EmployeeManagement\\EmployeeManagement\\obj\\",
+        "outputPath": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
