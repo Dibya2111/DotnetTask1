@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\models\\otplogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\otplogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dibya\\desktop\\dotnettask1\\employeemanagement\\employeemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE2012B-449C-4BFA-ABF6-E4C9BAE0CA5B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:32:18.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:29:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OtpLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Models\\OtpLogin.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\OtpLogin.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Models\\OtpLogin.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\OtpLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:27:46.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:22:48.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T09:18:23.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:17:37.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OtpController.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Controllers\\OtpController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\OtpController.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Controllers\\OtpController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\OtpController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:30:52.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:22:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\dibya\\Desktop\\DotnetTask1\\EmployeeManagement\\EmployeeManagement\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:21:55.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

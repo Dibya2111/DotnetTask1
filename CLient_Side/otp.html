@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OTP Verification</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/otp.css">
+</head>
+<body>
+  <div class="otp-container">
+    <h2>Verify Your Identity</h2>
+    
+    <div class="email-display">
+      <p>Verification code sent to: <span id="userEmail"></span></p>
+    </div>
+    
+    <div class="otp-input-container">
+      <input type="text" id="otp" placeholder="Enter 6-digit OTP" maxlength="6" />
+    </div>
+    
+    <div class="button-group">
+      <button class="verify-btn" onclick="verifyOtp()">Verify & Continue</button>
+      <button class="regenerate-btn" onclick="regenerateOtp()">Resend Code</button>
+    </div>
+    
+    <div class="info-text">
+      <p>Didn't receive the code? Check your spam folder or click "Resend Code"</p>
+    </div>
+  </div>
+
+  <script src="js/otp.js"></script>
+</body>
+</html>

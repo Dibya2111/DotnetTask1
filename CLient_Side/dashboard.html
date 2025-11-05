@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Employee Dashboard</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+  <div class="dashboard-container">
+    <button class="logout-btn" onclick="window.location.href='index.html'">Logout</button>
+    <h2>Employee Management Dashboard</h2>
+    
+    <table id="employeeTable">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Phone</th>
+          <th>Salary</th>
+          <th>Join Date</th>
+          <th>Active</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <h3>Add New Employee</h3>
+    <div class="form-container">
+      <div class="form-row">
+        <input type="text" id="name" placeholder="Full Name" />
+        <input type="email" id="empEmail" placeholder="Email Address" />
+        <input type="text" id="phone" placeholder="Phone Number" />
+      </div>
+      <div class="form-row">
+        <input type="number" id="salary" placeholder="Monthly Salary" />
+        <input type="date" id="doj" title="Date of Joining" />
+      </div>
+      <button onclick="addEmployee()">Add Employee</button>
+    </div>
+  </div>
+
+  <div id="updateModal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn" onclick="closeModal()">&times;</span>
+      <h3>Update Employee</h3>
+      <div class="form-row">
+        <input type="text" id="updateName" placeholder="Full Name" />
+        <input type="email" id="updateEmail" placeholder="Email Address" />
+        <input type="text" id="updatePhone" placeholder="Phone Number" />
+      </div>
+      <div class="form-row">
+        <input type="number" id="updateSalary" placeholder="Monthly Salary" />
+        <input type="date" id="updateDoj" title="Date of Joining" />
+      </div>
+      <button id="updateBtn" onclick="updateEmployee()">Update Employee</button>
+    </div>
+  </div>
+
+  <script src="js/dashboard.js"></script>
+</body>
+</html>
